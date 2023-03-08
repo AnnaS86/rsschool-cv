@@ -1,19 +1,26 @@
 # ANNA SADOVAYA
-! [photo](/img/anna.jpg "Photo")
-## Contact information:
+![photo](/img/anna.jpg "Photo")
+
+## Contact information
 Date of birth: 29.07.1978
+
 Gender: Female
+
 Location: Astana, Kazakhstan
+
 Email: anna_cheg@mail.ru
+
 Tel: +77054346244
+
 ________________________________________________________________________________________________________________
 
 ## About me
-I started learning front-end about one year ago, and I really like it.
+I started learning front-end and I really like it.
 I have a strong motivation to change my life.
 My personal qualities: responsibility, attentiveness, perseverance.
 I like to learn something new.
 My hobbies: traveling to warm countries.
+
 ________________________________________________________________________________________________________________
 
 ## Skills
@@ -22,6 +29,7 @@ ________________________________________________________________________________
 3. JavaScript (Basic)
 4. VS Code
 5. GIT
+
 ________________________________________________________________________________________________________________
 
 ## Code
@@ -45,12 +53,20 @@ ________________________________________________________________________________
 
 ## Experience
 
+
+
 ________________________________________________________________________________________________________________
 
 ## Education
-
++ HTML Academy 
++ Result School (HTML & CSS free course)
++ Result School (JavaScript marathon)
++ Itlogia "UX/UI Start" (Figma)
+![photo](/img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(1).png "Photo")
+![photo](/img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(2).png "Photo")
 ________________________________________________________________________________________________________________
 
 ## Language
-
+* Native - Russian
+* 
 ________________________________________________________________________________________________________________
