@@ -1,5 +1,5 @@
 # ANNA SADOVAYA 
-![photo](/img/anna.png "Photo")
+![photo](img/anna.png "Photo")
 
 ## Contact information
 Date of birth: 29.07.1978
@@ -7,6 +7,8 @@ Date of birth: 29.07.1978
 Gender: Female
 
 Location: Astana, Kazakhstan
+
+Discord: AnnaS#3552
 
 Email: anna_cheg@mail.ru
 
@@ -64,8 +66,8 @@ ________________________________________________________________________________
 * Result School (HTML & CSS free course)
 * Result School (JavaScript marathon)
 * Itlogia "UX/UI Start" (Figma)
-![](img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(1).png "Certificate")
-![photo](img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(2).png "Certificate")
+![](img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(1).png =90x "Certificate1")
+![](img/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20%D0%B8%20CSS%20(2).png "Certificate2")
 ________________________________________________________________________________________________________________
 
 ## Language
