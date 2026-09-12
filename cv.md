@@ -1,5 +1,5 @@
 # CV
-<img src="" width="">
+<img src="./images/avatar-circle.png" width="200">
 
 ## Анна Садовая
 
