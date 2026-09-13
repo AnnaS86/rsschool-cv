@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -24,6 +28,29 @@ body {
 .header {
     margin-bottom: 40px;
     text-align: left;
+}
+
+.resume-nav {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-nav a {
+    color: #3A364A;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 2px 2px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.resume-nav a:hover {
+    background-color: #E2DAF0;
+    color: #2A263D;
+    border-radius: 4px;
 }
 
 .logo {
